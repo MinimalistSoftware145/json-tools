@@ -16,6 +16,9 @@ it will show the error
 
 ### Dependencies
 Python.
-That's it
+That's it.
+### Why?
+Because I was tired of writing and reading JSON code.
+And I made it easier.
 
 *Copyright (c) 2026 MinimalistSoftware145*
