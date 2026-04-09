@@ -11,7 +11,8 @@ Parses JSON files and makes them show up in a human-readable format like this
 `key = value`
 
 Even your *grandma* can read JSON now.
-3. JSON Maker
+
+2. JSON Maker
 
 why write crappy JSON code? now you can input key name, value, click Make, repeat, then input the path, and click Save!
 Saving involves error handling where it will not crash on errors -
